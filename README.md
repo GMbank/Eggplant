@@ -1,2 +1,2 @@
 # Eggplant
-Eggplant code for EASE and DALI
+Eggplant Automation code for EASE and DALI code for the current FAME project
